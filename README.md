@@ -4,7 +4,7 @@ Simple code in python to detect Drowsiness and Yawn and alert the user using Dli
 
 ## Dependencies
 
-1. Python 3
+1. Python 3.12.4
 2. opencv
 3. dlib
 4. imutils
