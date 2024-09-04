@@ -24,7 +24,8 @@ EYE_AR_CONSEC_FRAMES = 30
 YAWN_THRESH = 20`	//change this according to the distance from the camera
 ```
 
-Download shape_predictor_68_face_landmarks.dat file from https://drive.google.com/file/d/1BqJATCFLmV4ANHvxhsfCf3hN9Bv70P_X/view?usp=drive_link and paste it in the same folder
+Download shape_predictor_68_face_landmarks.dat file and paste it in the same folder 
+link for shape_predictor_68_face_landmarks.dat file - https://drive.google.com/file/d/1BqJATCFLmV4ANHvxhsfCf3hN9Bv70P_X/view?usp=drive_link 
 
 ## Authors
 
